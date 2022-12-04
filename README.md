@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @VishalKumarVishwakarma
-- 👀 I’m interested in field of Data Science and Artificial Intelligence, I learrned various Machine Learning Algoriths and Neural Networks
+- 👀 I’m interested in field of Data Science and Artificial Intelligence, I learrned various Machine Learning Algorithms and Neural Networks
 - 🌱 I’m currently persuing M.Tech from IIT - Kharagpur
 - 💞️ I’m looking to new role in organisation as ML Engineer
 - 📫 Reach me at vishalvishwakarma984@gmail.com
